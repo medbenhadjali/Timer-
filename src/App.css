@@ -1,0 +1,28 @@
+.name{
+  display:flex;
+  justify-content: space-around;
+  font-size: 12px;
+  max-width: 250px;
+  
+  margin-left: 28px;
+  color: #747474;
+  
+}
+
+
+.value{
+  display: flex;
+font-size: 55px;
+font-weight: bold;
+font-family: Arial;
+padding-top: 30px;
+padding-left: 50px;
+max-width: 250px;
+
+}
+
+.time{
+  padding-top: 30px;
+  padding-left: 50px;
+  max-width: 250px;
+}
